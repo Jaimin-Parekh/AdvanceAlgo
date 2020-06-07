@@ -1,4 +1,4 @@
-# AdvanceAlgo
+#UniversityofCincinnati # AdvanceAlgo #CourseAssignment #Algorithms
 Advance Algorithm (Advanced Algorithms 1 (CS 7081 001) - University of Cincinnati) Java Code
 - Probably Majority Element Search (Misra Gries Algorithm) 
 - Left to Right Binary Power Exponent
